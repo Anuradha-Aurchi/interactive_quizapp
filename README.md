@@ -1,0 +1,1 @@
+<p>An interactive web-based quiz application built with html, css & javascript that allows user to ans ques, receive instant feedback, and track their score in real time through a clean and responsive interface.</p>
